@@ -1,0 +1,6 @@
+waist, 700, 0, 3600
+shoulder, 850, 0, 0
+elbow, 850, 2000, 2000
+wrist_angle, 850, 2000, 0
+wrist_rotate, 700, 0, 3600
+gripper, 700, 0, 3600 

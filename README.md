@@ -1,7 +1,21 @@
-Launch realsense:
+# Armlab : Robotic Arm Manipulation project
 
-roslaunch realsense2_camera rs_camera.launch align_depth:=true
+A project for 2021 Fall ROB 550: Robotics Systems Lab at University of Michigan, Ann Arbor. 
 
-Launch rx200 arm:
+![image](https://github.com/haotsunglee/ROB550-BotLab/blob/master/PXL_20211028_075419027.jpg)
 
-roslaunch interbotix_sdk arm_run.launch robot_name:=rx200 use_time_based_profile:=true gripper_operating_mode:=pwm
+An overview of this project:
+- Acting
+    - 6-DOF rigid-body coordinate transforms using homogeneous coordinate transforms
+    - Forward kinematics modeling of a manipulator
+    - Inverse kinematics modeling of a manipulator
+    - Grasping
+    
+- Perception 
+    - 3D image/workspace calibration
+    - Object detection with OpenCV
+    - Depth camera sensors
+
+- Reasoning
+    - Path planning & path smoothing
+    - State machines

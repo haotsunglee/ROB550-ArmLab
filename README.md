@@ -3,7 +3,6 @@
 A project for 2021 Fall ROB 550: Robotics Systems Lab at University of Michigan, Ann Arbor. 
 
 ![image](https://github.com/haotsunglee/ROB550-ArmLab/blob/master/images/IMG_6798.jpg)
-![image](https://github.com/haotsunglee/ROB550-ArmLab/blob/master/images/block_detector.PNG)
 
 An overview of this project:
 - Acting
@@ -16,6 +15,8 @@ An overview of this project:
     - 3D image/workspace calibration
     - Object detection with OpenCV
     - Depth camera sensors
+      ## Block detector
+    ![image](https://github.com/haotsunglee/ROB550-ArmLab/blob/master/images/block_detector.PNG)
 
 - Reasoning
     - Path planning & path smoothing

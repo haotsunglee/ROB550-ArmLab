@@ -15,7 +15,7 @@ An overview of this project:
     - 3D image/workspace calibration
     - Object detection with OpenCV
     - Depth camera sensors
-      ## Block detector
+      -> Build a blocks detector
     ![image](https://github.com/haotsunglee/ROB550-ArmLab/blob/master/images/block_detector.PNG)
 
 - Reasoning
